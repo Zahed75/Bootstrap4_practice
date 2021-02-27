@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+footer h2{
+    text-align: center;
+}
+
+.mynavbar{
+    background-color: blueviolet;
+}
